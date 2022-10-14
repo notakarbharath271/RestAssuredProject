@@ -1,0 +1,27 @@
+{
+  "instructor" : "Bharath",
+  "url" : "softwareautomation.com",
+  "services" : "Software Testing",
+  "expertise" : "Testing",
+  "courses" : {
+    "webAutomation" : [ {
+      "courseTitle" : "Selenium",
+      "price" : 5000
+    }, {
+      "courseTitle" : "Protractor",
+      "price" : 5000
+    } ],
+    "apiAutomation" : [ {
+      "courseTitle" : "RestAssured",
+      "price" : 4000
+    }, {
+      "courseTitle" : "SOAP API Automation",
+      "price" : 3000
+    } ],
+    "mobileAutomation" : [ {
+      "courseTitle" : "Appium",
+      "price" : 1000
+    } ]
+  },
+  "linkedIn" : "BharathLinkedIn"
+}

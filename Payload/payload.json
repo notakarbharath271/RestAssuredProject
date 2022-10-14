@@ -1,0 +1,12 @@
+{
+    "name": "Bharath",
+    "job": "Tester",
+    "skills": [
+        "java",
+        "Selenium"
+    ],
+    "details": {
+        "companyname": "XYZ",
+        "emailid": "Bharath@xyz.com"
+    }
+ } 
